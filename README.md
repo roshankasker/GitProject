@@ -44,4 +44,3 @@
 | git fetch 'remote' 'branch' | fetches a specific branch from the repo      |
 | git pull 'remote' | fetches specified remote's copy of current branch and merges it into local copy     |
 | git push 'remote' 'branch'      |  pushes branch to 'remote'    | 
-
