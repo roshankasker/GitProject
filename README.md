@@ -1,5 +1,5 @@
 # **Bash and Git Commands**
-## Bash Commands
+## **Bash Commands**
 
 - cd = goes to the home directory
 - cd 'directory name' = goes to a specific directory
